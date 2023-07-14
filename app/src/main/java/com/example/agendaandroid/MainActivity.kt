@@ -45,7 +45,7 @@ fun Content(){
             textAlign = TextAlign.Center,
             modifier = Modifier
                 .fillMaxWidth()
-                .padding(20.dp)
+                .padding(18.dp)
         )
         TextField(value = "", onValueChange = {
 
